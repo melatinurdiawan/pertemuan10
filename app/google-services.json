@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93006983236",
+    "project_id": "adxvm1-10d71",
+    "storage_bucket": "adxvm1-10d71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93006983236:android:6758d7c9c9ab51aad00c11",
+        "android_client_info": {
+          "package_name": "com.learn.adxvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFMMRPqMs2oybiyQ9-SoKI8B6-XkwxqpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
